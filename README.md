@@ -8,7 +8,3 @@ You may clone it, [participate in it at Cloud 9 IDE](https://c9.io/shamansir/mas
 But currently, there is nothing inside. See you later :)
 
 Sincerely yours, `shaman.sir` :)
-
-Literature
-----------
-
